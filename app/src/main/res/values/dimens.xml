@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="defMargin">20dp</dimen>
+    <dimen name="defRadius">15dp</dimen>
+    <dimen name="defPadding">10dp</dimen>
+</resources>

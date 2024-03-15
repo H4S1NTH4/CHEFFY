@@ -1,0 +1,28 @@
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_explore"
+        android:icon="@drawable/imgexplore"
+        android:title="@string/nav_explore" />
+    <item
+        android:id="@+id/nav_community"
+        android:icon="@drawable/imgcommunity"
+        android:title="@string/nav_community"
+        />
+    <item
+        android:id="@+id/nav_post"
+        android:icon="@drawable/imgpost"
+         android:title="@string/nav_post"/>
+    <item
+        android:id="@+id/nav_list"
+        android:icon="@drawable/imglist"
+        android:title="@string/nav_list"
+        />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/imgprofile"
+        android:title="@string/nav_profile" />
+
+
+</menu>

@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">CHEFFY</string>
+
+    <!-- onboarding screens -->
+    <string name="onb1_topic">Welcome to Cheffy!</string>
+    <string name="onb1_des">Discover mouth watering new recipes and unleash your culinary creativity.</string>
+
+    <string name="onb2_topic">Stay Connected!</string>
+    <string name="onb2_des">Connect with other passionate cooks, share tips, and exchange culinary ideas.</string>
+
+    <string name="onb3_topic">Let\'s Get Cooking!</string>
+    <string name="onb3_des">Sign up for your free account to unlock all Cheffy\'s features.</string>
+
+    <string name="btn_onbskip">Skip</string>
+    <string name="btn_onbnext">Next</string>
+    <string name="btn_onbstart">Start</string>
+
+    <!--explore screen-->
+    <string-array name="spinner1_items">
+        <item>Country</item>
+        <item>Lankan</item>
+        <item>Chinese</item>
+        <item>Indian</item>
+        <item>Mexican</item>
+    </string-array>
+    <string name="exp_spinner1_plcholder">Country</string>
+
+    <string-array name="spinner2_items">
+        <item>Dietary</item>
+        <item>Vegan</item>
+        <item>Low-Carb</item>
+        <item>Dairy</item>
+        <item>Meat</item>
+    </string-array>
+
+    <string-array name="spinner3_items">
+        <item>Type</item>
+        <item>Dessert</item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+    </string-array>
+
+    <string name="chefName1">Dilshan J M H</string>
+    <string name="followers1">2.3M Followers</string>
+    <string name="food1">Cheese Cake</string>
+
+
+    <!--Navigation-Bottom-->
+
+    <string></string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_community">Community</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_list">list</string>
+    <string name="nav_post">post</string>
+    <string name="logout">LogOut</string>
+    <string name="chefemail1">hasi@gmail.com</string>
+    <string name="chefname2">Hasintha Dilshan</string>
+    <string name="followerscount">2.5M</string>
+    <string name="recipecount">210</string>
+    <string name="followingcount">1.3K</string>
+    <string name="followers">Followers\n</string>
+    <string name="following">Following</string>
+    <string name="recips">Recips</string>
+    <string name="account">Account</string>
+    <string name="saved">Saved Recipes</string>
+    <string name="drafts">Drafts</string>
+    <string name="activity">My Activity</string>
+    <string name="settings">Settings</string>
+
+    <!-- Community Screen -->
+    <string name="compostopic1">Calling Applicants📢</string>
+    <string name="compostopic2">Another Milestone!!!</string>
+    <string name="compostdes2" >I am very exited to say that I was duly wualified as a level 1 Executive chef!!</string>
+    <string name="compostdes1" >Our advanced training for chefs and Course in advanced Cookery offers you the
+         oppotunity to improve your culinary repertoire </string>
+    <string name="postopic">Post Your Recipe</string>
+    <string name="atlanta">Atlanta Academy</string>
+    <string name="author">By Dilshan j M H</string>
+    <string name="aimee">Aimee Robinson</string>
+    <string name="followers2">5.2K Followers</string>
+
+    <string name="country1">Indian 🇮🇳</string>
+    <string name="country2">Greece 🇬🇷</string>
+    <string name="country3">Italian 🇮🇹</string>
+
+
+
+    <string name="food2">Chicken Biriyani</string>
+    <string name="rating47">4.7 ⭐</string>
+
+<!-- Post Screen-->
+    <string name="postname">Name: </string>
+    <string name="posttime">Preparation Time: </string>
+    <string name="postype">Choose Type:</string>
+    <string name="postcountry">Choose Country: </string>
+    <string name="postingredeients">Add Ingredients</string>
+    <string name="postinstructions">Add Instructions: </string>
+    <string name="postimage">Select Image </string>
+    <string name="submit">Post</string>
+
+<!--ingredients-->
+    <string name="ing1">BlackPepper</string>
+    <string name="ing2">Garlic powder</string>
+    <string name="ing3">Cherry Tomatoes</string>
+    <string name="ing4">Biriyani Powder</string>
+    <string name="ing5">Green Chilly</string>
+    <string name="ing6">Bell peppers</string>
+    <string name="ing7">Smoked Paprika</string>
+    <string name="ing8">Black Pepper</string>
+    <string name="ing9">Garlic powder</string>
+    <string name="ing10">Onion powder</string>
+    <string name="ing11">Smoked Paprika</string>
+    <string name="list">Ingredients List</string>
+    <string name="add">Add Items</string>
+    <string name="des" />
+    <string name="deslist">\"Manage your diverse ingredients for delicious dishes\"</string>
+    <string name="postdescrip">\"Share your culinary creations with the world\"</string>
+    <string name="foodname3">Pasta</string>
+
+
+</resources>

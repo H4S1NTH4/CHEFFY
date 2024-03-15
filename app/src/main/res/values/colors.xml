@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+<!--Colors used for this App-->
+    <color name="primary">#FFD23F</color>
+    <color name="secondary">#FFFFFF</color>
+    <color name="accent">#9C27B0</color>
+    <color name="accent1">#9C27B0</color>
+
+    <color name="neutrallite">#C7C7C7</color>
+    <color name="neutraldark">#000000</color>
+
+
+   <!--not used-->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="launchBg">#fece2f</color>
+    <color name="bg">#2CC8C5</color>
+    <color name="yellowdark">#FFB000</color>
+    <color name="onbBg">#FFDB5B</color>
+    <color name="darkgrey">#C7C7C7</color>
+    <color name="cardgray">#FFD23F</color>
+    <color name="yellowgray">#D8BE85</color>
+    <color name="colorPrimaryDark">#ffb000</color>
+    <color name="searchbg">#FFFFFF</color>
+    <color name="mainpurple">#B0630FAC</color>
+
+
+
+    <color name="nlite">#F5F5F5</color>
+    <color name="ndark">#333333</color>
+
+
+</resources>
